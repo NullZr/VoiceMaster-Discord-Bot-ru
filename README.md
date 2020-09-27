@@ -17,3 +17,5 @@
             Его можно взять тут:"https://discord.com/developers/applications/" в Bot
 
 5.Запустить бота.
+
+Автор:Sam#9452 перевод:S1er4ik1236#2114
