@@ -91,7 +91,7 @@ class voice(commands.Cog):
                         f'**Чтоб выдать права введите комманду:**\n\n`.voice permit @пользователь`\n\n**Пример:** `.voice permit @S1er4ik1236#2114`\n\n------------\n\n'
                         f'**Чтоб стать владельцем канал введите комманду:**\n\n`.voice claim`\n\n**Пример:** `.voice claim`\n\n------------\n\n'
                         f'**Чтоб забрать права введите комманду:**\n\n`.voice reject @пользователь`\n\n**Пример:** `.voice reject @S1er4ik1236#2114`\n\n', inline='false')
-        embed.set_footer(text='Bot developed by Sam#9452 moded by シエラ1236#2000')
+        embed.set_footer(text='Bot developed by Sam#9452 moded by シエラ1236#7293')
         await ctx.channel.send(embed=embed)
 
     @commands.group()
