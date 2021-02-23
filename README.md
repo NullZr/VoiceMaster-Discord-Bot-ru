@@ -6,9 +6,7 @@
 
 2.Откройте командную строку и вставьте следующее:
 
-	  pip3 install discord.py
-  
-	  pip3 install validators
+	  pip3 install -r requirements.txt
   
 3.Скачать бота через Github
 
@@ -18,4 +16,4 @@
 
 5.Запустить бота.
 
-Автор:Sam#9452 перевод:シエラ1236#7293
+Автор:Sam#9452 перевод:シエラ1236#5478
