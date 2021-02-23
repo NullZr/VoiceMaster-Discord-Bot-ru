@@ -4,11 +4,11 @@
 
 	https://www.python.org/downloads/release/python-373/
 
-2.Откройте командную строку и вставьте следующее:
+2.Скачать бота через Github
+
+3.Откройте командную строку и вставьте следующее:
 
 	  pip3 install -r requirements.txt
-  
-3.Скачать бота через Github
 
 4.Открыть **config.json** через текстовой редактор и заменить **'Enter Discord Token here'** на bot token:
 
